@@ -9,6 +9,11 @@ Este projeto implementa um pipeline de dados e dashboard para análise de métri
 - Carga (`load`): armazenamento final em formato pronto para dashboard.
 - Dashboard (`dashboard/`): visualização interativa para insights exploratórios.
 
+## 📊 Status
+✅ Fase 0: Setup do ambiente  
+🚧 Fase 1: Extração — concluída  
+⏳ Fase 2: Transformação
+
 ## 🚀 Tecnologias
 
 - Python 3.8+.
