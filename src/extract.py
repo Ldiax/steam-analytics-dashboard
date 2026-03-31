@@ -15,3 +15,5 @@ def save_raw_data(data, path="data/raw/games_raw.json"):
 if __name__ == "__main__":
     games = get_top_games()
     save_raw_data(games)
+    print("Extração concluída!")
+    print("Próximo passo: rodar o script de transformação para processar os dados extraídos.")
